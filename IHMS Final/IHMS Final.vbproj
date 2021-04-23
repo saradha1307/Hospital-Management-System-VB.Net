@@ -77,7 +77,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Bunifu_UI_v1.52">
-      <HintPath>D:\Software\Bunifu_UI_v1.52.dll</HintPath>
+      <HintPath>$(sourceDir)\DLL file for UI\Bunifu_UI_v1.52.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
